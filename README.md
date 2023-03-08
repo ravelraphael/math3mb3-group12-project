@@ -2,11 +2,10 @@
 
 ## Author: 
 
-| Rwfiael, Ravel, rwfiaer     |
-| --------------------------- |
-| Sha, Mingqin, sham          |
-| Sochaniwsky, Alexa, sochaa1 |
-| Tan, Yiren, tany39          |
+| Raphael, Ravel              |
+| Sha, Mingqin                |
+| Sochaniwsky, Alexa          |
+| Tan, Yiren                  |
 
 Working progress:
 
